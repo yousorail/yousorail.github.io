@@ -1,6 +1,7 @@
 ---
-title: 반짝임 프로젝트 안내 요약
 layout: home
+title: 반짝임 프로젝트 안내 요약
+nav_order: 1
 ---
 
 # 반짝임 프로젝트 안내 요약
