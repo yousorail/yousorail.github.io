@@ -2,6 +2,7 @@
 layout: default
 title: 현재까지 기획에 대한 QnA
 date: 2019-03-22
+last_modified_date: 2019-03-22
 nav_order: 2
 ---
 
