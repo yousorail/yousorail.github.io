@@ -12,64 +12,64 @@ layout: home
 아시아투어 서울 공연에서는 Aqours에게 기쁨을 전하기 위한 수많은 프로젝트들이 진행되었습니다. 이 문단에서는 함께한 다른 프로젝트들과, 핵심 글을 모았습니다.
 
 - **다이아 파트 떼창 관련 가이드**
-    - [내한 떼창 관련 가이드 (*디시인사이드*)](https://gall.dcinside.com/m/sunshine/2315196)
-    - [~~떼창 가이드 (*유튜브*)~~](https://youtu.be/-DgG8MyXyz8)
+    - [내한 떼창 관련 가이드 (*디시인사이드*)](https://gall.dcinside.com/m/sunshine/2315196){:target="_blank"}
+    - [~~떼창 가이드 (*유튜브*)~~](https://youtu.be/-DgG8MyXyz8){:target="_blank"}
 
 - **미라치케 프로젝트**
-    - [~~프로젝트 공식 사이트(폐쇄)~~](https://miraiticket.tistory.com/)
+    - [~~프로젝트 공식 사이트(폐쇄)~~](https://miraiticket.tistory.com/){:target="_blank"}
     - 프로젝트 개시 공지
-        - ([*디시인사이드*](https://gall.dcinside.com/m/sunshine/2301757)/[*루리웹*](https://bbs.ruliweb.com/family/3094/board/181035/read/9479614))
+        - ([*디시인사이드*](https://gall.dcinside.com/m/sunshine/2301757){:target="_blank"}/[*루리웹*](https://bbs.ruliweb.com/family/3094/board/181035/read/9479614){:target="_blank"})
     - 프로젝트 가이드
-        - ([*디시인사이드*](https://gall.dcinside.com/m/sunshine/2341987)/[*루리웹*](https://bbs.ruliweb.com/family/3094/board/181035/read/9480173)/[*NLC*](https://cafe.naver.com/lovelivefancafe/1180319))
+        - ([*디시인사이드*](https://gall.dcinside.com/m/sunshine/2341987){:target="_blank"}/[*루리웹*](https://bbs.ruliweb.com/family/3094/board/181035/read/9480173){:target="_blank"}/[*NLC*](https://cafe.naver.com/lovelivefancafe/1180319){:target="_blank"})
     - 미라치케 재현에 협력해주신 모든 분들께 정말로 감사를 드립니다.
-        - ([*디시인사이드*](https://gall.dcinside.com/m/sunshine/2351452)/[*루리웹*](https://bbs.ruliweb.com/family/3094/board/181035/read/9480417)[*NLC*](https://cafe.naver.com/lovelivefancafe/1180715))
+        - ([*디시인사이드*](https://gall.dcinside.com/m/sunshine/2351452){:target="_blank"}/[*루리웹*](https://bbs.ruliweb.com/family/3094/board/181035/read/9480417){:target="_blank"}/[*NLC*](https://cafe.naver.com/lovelivefancafe/1180715){:target="_blank"})
 
 - **반반미캉 프로젝트**
-    - [급조한 반반 미캉 참여해주셔서 감사합니다. (*디시인사이드*)](https://gall.dcinside.com/m/sunshine/2368189)
+    - [급조한 반반 미캉 참여해주셔서 감사합니다. (*디시인사이드*)](https://gall.dcinside.com/m/sunshine/2368189){:target="_blank"}
 
 - **아쿠아 내한맞이 랩핑버스 프로젝트**
-    - [프로젝트 공식 사이트](https://aqoursbus.tistory.com/)
-    - [프로젝트 공식 트위터](https://twitter.com/Aqoursbus)
-    - [~~프로젝트 소개 공식 사이트(폐쇄)~~](https://www.aqoursbus.info/)
-    - [프로젝트 개시 공지 (공식)](https://aqoursbus.tistory.com/2)
-        - ([*디시인사이드*](https://gall.dcinside.com/m/sunshine/2119380)/[*루리웹*](https://bbs.ruliweb.com/family/3094/board/181035/read/9473477)/[*인벤*](http://www.inven.co.kr/board/lovelive/3897/688858)/[*NLC*](https://cafe.naver.com/lovelivefancafe/1152168))
-    - [아쿠아버스, 문을 닫으며. (공식)](https://aqoursbus.tistory.com/11)
-        - ([*디시인사이드*](https://gall.dcinside.com/m/sunshine/2379718)/[*루리웹*](https://bbs.ruliweb.com/family/3094/board/181035/read/9480571)/[*인벤*](http://www.inven.co.kr/board/lovelive/3897/692516)/[*NLC*](https://cafe.naver.com/lovelivefancafe/1181295))
-    - [팬들에게 추억을 선사한 래핑 버스! 'Aqoursbus' 프로젝트 팀 인터뷰(*인벤 뉴스기사*)](http://www.inven.co.kr/webzine/news/?news=219141)
+    - [프로젝트 공식 사이트](https://aqoursbus.tistory.com/){:target="_blank"}
+    - [프로젝트 공식 트위터](https://twitter.com/Aqoursbus){:target="_blank"}
+    - [~~프로젝트 소개 공식 사이트(폐쇄)~~](https://www.aqoursbus.info/){:target="_blank"}
+    - [프로젝트 개시 공지 (공식)](https://aqoursbus.tistory.com/2){:target="_blank"}
+        - ([*디시인사이드*](https://gall.dcinside.com/m/sunshine/2119380){:target="_blank"}/[*루리웹*](https://bbs.ruliweb.com/family/3094/board/181035/read/9473477){:target="_blank"}/[*인벤*](http://www.inven.co.kr/board/lovelive/3897/688858){:target="_blank"}/[*NLC*](https://cafe.naver.com/lovelivefancafe/1152168){:target="_blank"})
+    - [아쿠아버스, 문을 닫으며. (공식)](https://aqoursbus.tistory.com/11){:target="_blank"}
+        - ([*디시인사이드*](https://gall.dcinside.com/m/sunshine/2379718){:target="_blank"}/[*루리웹*](https://bbs.ruliweb.com/family/3094/board/181035/read/9480571){:target="_blank"}/[*인벤*](http://www.inven.co.kr/board/lovelive/3897/692516){:target="_blank"}/[*NLC*](https://cafe.naver.com/lovelivefancafe/1181295){:target="_blank"})
+    - [팬들에게 추억을 선사한 래핑 버스! 'Aqoursbus' 프로젝트 팀 인터뷰(*인벤 뉴스기사*)](http://www.inven.co.kr/webzine/news/?news=219141){:target="_blank"}
 
 - **아쿠아 내한맞이 한복 선물 프로젝트**
-    - [프로젝트 공식 사이트](https://llhb19.tistory.com/)
-    - [프로젝트 공식 트위터](https://twitter.com/llhb19)
-    - [프로젝트 개시 공지 (공식)](https://llhb19.tistory.com/2)
-    - [한복이 전부 완성되었습니다. (공식)](https://llhb19.tistory.com/8)
-        - ([*디시인사이드*](https://gall.dcinside.com/m/sunshine/2241224)/[*루리웹*](https://bbs.ruliweb.com/family/3094/board/181035/read/9477947))
-    - [정말 마지막으로 인사드립니다. (*디시인사이드*)](https://gall.dcinside.com/m/sunshine/2387167)
+    - [프로젝트 공식 사이트](https://llhb19.tistory.com/){:target="_blank"}
+    - [프로젝트 공식 트위터](https://twitter.com/llhb19){:target="_blank"}
+    - [프로젝트 개시 공지 (공식)](https://llhb19.tistory.com/2){:target="_blank"}
+    - [한복이 전부 완성되었습니다. (공식)](https://llhb19.tistory.com/8){:target="_blank"}
+        - ([*디시인사이드*](https://gall.dcinside.com/m/sunshine/2241224){:target="_blank"}/[*루리웹*](https://bbs.ruliweb.com/family/3094/board/181035/read/9477947){:target="_blank"})
+    - [정말 마지막으로 인사드립니다. (*디시인사이드*)](https://gall.dcinside.com/m/sunshine/2387167){:target="_blank"}
 
 - **키미코코 프로젝트**
-    - [~~프로젝트 공식 사이트(폐쇄)~~](https://kimikoko.tistory.com/)
-    - [~~프로젝트 공식 트위터(폐쇄)~~](https://twitter.com/Kimikoko_KR)
-    - [프로젝트 개시 공지 ~~(공식)~~](https://kimikoko.tistory.com/2)
-        - ([*디시인사이드*](https://gall.dcinside.com/m/sunshine/2316185)/[*~~NLC~~*](https://cafe.naver.com/lovelivefancafe/1179527))
-    - [프로젝트를 마치며 ~~(공식)~~](https://kimikoko.tistory.com/11)
-        - ([*~~디시인사이드~~*](https://gall.dcinside.com/m/sunshine/2407509)/[*~~NLC~~*](https://cafe.naver.com/lovelivefancafe/1182073))
+    - [~~프로젝트 공식 사이트(폐쇄)~~](https://kimikoko.tistory.com/){:target="_blank"}
+    - [~~프로젝트 공식 트위터(폐쇄)~~](https://twitter.com/Kimikoko_KR){:target="_blank"}
+    - [프로젝트 개시 공지 ~~(공식)~~](https://kimikoko.tistory.com/2){:target="_blank"}
+        - ([*디시인사이드*](https://gall.dcinside.com/m/sunshine/2316185){:target="_blank"}/[*~~NLC~~*](https://cafe.naver.com/lovelivefancafe/1179527){:target="_blank"})
+    - [프로젝트를 마치며 ~~(공식)~~](https://kimikoko.tistory.com/11){:target="_blank"}
+        - ([*~~디시인사이드~~*](https://gall.dcinside.com/m/sunshine/2407509){:target="_blank"}/[*~~NLC~~*](https://cafe.naver.com/lovelivefancafe/1182073){:target="_blank"})
 
 - **한국 Thank you, FRIENDS!! 프로젝트**
-    - [~~프로젝트 공식 사이트(폐쇄)~~](http://krtf.egloos.com/)
-    - [프로젝트 공식 트위터](https://twitter.com/krtfproject)
-    - [프로젝트 개시 공지 ~~(공식)~~](http://krtf.egloos.com/6457378)
-        - ([*디시인사이드*](https://gall.dcinside.com/m/sunshine/2242072)/[*루리웹*](https://bbs.ruliweb.com/family/3094/board/181035/read/9477962)/[*NLC*](https://cafe.naver.com/lovelivefancafe/1170158))
-    - [한국 Thank you, FRIENDS!! 프로젝트 종료 안내 ~~(공식)~~](http://krtf.egloos.com/6475395)
-        - [아카이브](https://archive.md/eWHhO)
-        - ([*디시인사이드*](https://gall.dcinside.com/m/sunshine/2358683)/[*루리웹*](https://bbs.ruliweb.com/family/3094/board/181035/read/9480484)/[*NLC*](https://cafe.naver.com/lovelivefancafe/1180931))
-    - [Aqours ASIA TOUR 2019 ソウル公演にお越しくださったみなさんへ ~~(공식, 일본어)~~](http://krtf.egloos.com/6475458)
-        - [아카이브](https://archive.md/4WKzp)
-        - [한글 번역 (*디시인사이드*](https://gall.dcinside.com/m/sunshine/2359167)/[*루리웹*)](https://bbs.ruliweb.com/family/3094/board/181035/read/9480504)
-        - [繁體中文](https://moptt.tw/p/LoveLive_Sip.M.1555955827.A.732)
+    - [~~프로젝트 공식 사이트(폐쇄)~~](http://krtf.egloos.com/){:target="_blank"}
+    - [프로젝트 공식 트위터](https://twitter.com/krtfproject){:target="_blank"}
+    - [프로젝트 개시 공지 ~~(공식)~~](http://krtf.egloos.com/6457378){:target="_blank"}
+        - ([*디시인사이드*](https://gall.dcinside.com/m/sunshine/2242072){:target="_blank"}/[*루리웹*](https://bbs.ruliweb.com/family/3094/board/181035/read/9477962){:target="_blank"}/[*NLC*](https://cafe.naver.com/lovelivefancafe/1170158){:target="_blank"})
+    - [한국 Thank you, FRIENDS!! 프로젝트 종료 안내 ~~(공식)~~](http://krtf.egloos.com/6475395){:target="_blank"}
+        - [아카이브](https://archive.md/eWHhO){:target="_blank"}
+        - ([*디시인사이드*](https://gall.dcinside.com/m/sunshine/2358683){:target="_blank"}/[*루리웹*](https://bbs.ruliweb.com/family/3094/board/181035/read/9480484){:target="_blank"}/[*NLC*](https://cafe.naver.com/lovelivefancafe/1180931){:target="_blank"})
+    - [Aqours ASIA TOUR 2019 ソウル公演にお越しくださったみなさんへ ~~(공식, 일본어)~~](http://krtf.egloos.com/6475458){:target="_blank"}
+        - [아카이브](https://archive.md/4WKzp){:target="_blank"}
+        - [한글 번역 (*디시인사이드*](https://gall.dcinside.com/m/sunshine/2359167){:target="_blank"}/[*루리웹*)](https://bbs.ruliweb.com/family/3094/board/181035/read/9480504){:target="_blank"}
+        - [繁體中文](https://moptt.tw/p/LoveLive_Sip.M.1555955827.A.732){:target="_blank"}
 
 - **향긋해지기 프로젝트**
-    - [프로젝트 설명 (*디시인사이드*)](https://gall.dcinside.com/m/sunshine/2331683)
-    - [향긋해지기 를 마무리 합니다. (*디시인사이드*)](https://gall.dcinside.com/m/sunshine/2345816)
-    - [2019년을 마무리하며 (*디시인사이드*)](https://gall.dcinside.com/m/sunshine/2913175)
+    - [프로젝트 설명 (*디시인사이드*)](https://gall.dcinside.com/m/sunshine/2331683){:target="_blank"}
+    - [향긋해지기 를 마무리 합니다. (*디시인사이드*)](https://gall.dcinside.com/m/sunshine/2345816){:target="_blank"}
+    - [2019년을 마무리하며 (*디시인사이드*)](https://gall.dcinside.com/m/sunshine/2913175){:target="_blank"}
 
 ---
 
