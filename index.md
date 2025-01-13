@@ -9,7 +9,7 @@ nav_order: 1
 {: .note }
 여러분의 노력 덕분에 반짝임 프로젝트를 성공적으로 마무리하였고, 현재 이 사이트는 여러분이 만든 소중한 추억을 오래 간직할 수 있도록 아카이브 목적으로 운영하고 있습니다.
 
----
+![](/assets/images/프로젝트-한글로고-배경-1024x337.png)
 
 ## 함께한 다른 프로젝트들
 
@@ -92,14 +92,28 @@ nav_order: 1
 
 참여방식에 대해서는 아래 통합 링크로 대체하고자 합니다. 아래 로고들을 각각 클릭하시면 글로 설명된 가이드와 안내영상이 첨부된 페이지로 이동하게 됩니다. (각 그림은 No.10 레인보우, 리코쨩 빔, 요소로드, 카난레일을 이미지한 아이콘들 입니다. 순서도 위와 동일합니다.)
 
+[![No.10 레인보우](/assets/images/icon-rainbow-colored-final-300x300.png)](/2019-04-14-rainbow-guide)
+
+[![리코쨩 빔](/assets/images/icon_rikochanbeam-colored-1-300x300.png)](/2019-04-03-rikochan-beam-guide)
+
+[![요소로드](/assets/images/icon_yousoroad-colored-1-300x300.png)](/2019-04-14-yousoroad-guide)
+
+[![카난레일](/assets/images/icon_kananrail-colored-1-300x300.png)](/2019-04-14-kananrail-guide)
+
 ## 가이드 영상
 
 다음은 여러분들의 이해를 위해 DVD 메뉴창을 컨셉으로 제작된 안내 영상입니다.
 진행되는 프로젝트들에 대한 모든 안내가 삽입되어있으며 동영상 정보란에는 단축버튼을 준비했으니 시간이 없으신분들은 프로젝트를 선택하여 시청하시면 됩니다.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-6ehgkJqjs?si=W59lvWWdnKMZXcui" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## 3D 영상
 
 마지막으로 준비한 홍보영상 입니다. 기존 2017년 팬미팅에서 진행되었고 많이 알려진 요소로드와 카난레일을 제외하고, 어레인지 되어 다소 생소하거나 처음 시도되어 어떤 모습일지 궁금해 하실 분들이 많다고 생각이 됩니다. 따라서 화정 체육관을 모델로한 3D 안내영상을 제작하였습니다.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vdVBXba7eQw?si=C5Am5fE4Ky0cenQC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NhW08gGE64g?si=DwpgUkTJVfZaQwT2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 간략한 QnA
 
