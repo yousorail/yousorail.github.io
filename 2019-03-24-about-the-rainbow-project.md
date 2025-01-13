@@ -25,6 +25,6 @@ No.10의 경우 해당 곡에서 1,2,3…9까지의 색상을 각각 순서에 �
 따라서 현재 생각으로는 No.10을 이전에 가사에 따라서 색을 구간별로 들어올리는 레인보우와 접목시켜서 진행하는 안은 어떤지 어느것에 더 참여를 하고싶은지 의견을 묻고싶습니다.
 
 아래 이해를 돕기위한 유투브 링크입니다 
-- https://youtu.be/H6Gb3xLb8is
+- [https://youtu.be/H6Gb3xLb8is]
 
-http://naver.me/x1RlABbx
+[http://naver.me/x1RlABbx]
