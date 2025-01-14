@@ -8,7 +8,7 @@ nav_order: 11
 
 # 당일 배포에 관한 안내 및 기획 간의 사과문
 
-![](/assets/images/프로젝트-한글로고-배경-1024x337.png)
+![](/assets/images/project-logo-ko-1024x337.png)
 
 안녕하세요. 
 
