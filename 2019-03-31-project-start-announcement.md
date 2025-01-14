@@ -3,7 +3,7 @@ layout: default
 title: 반짝임 프로젝트 개시 공지
 date: 2019-03-31
 last_modified_date: 2019-03-31
-nav_order: 5
+nav_order: 4
 ---
 
 # 반짝임 프로젝트 개시 공지
