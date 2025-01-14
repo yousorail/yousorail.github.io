@@ -6,22 +6,22 @@ $link-color: $blue-000;
 
 h1,
 .text-alpha {
-  font-weight: 900;
 
   @include fs-8;
+  @include fw-700;
 }
 
 h2,
 .text-beta,
 #toctitle {
-  font-weight: 700;
   
   @include fs-6;
+  @include fw-700;
 }
 
 h3,
 .text-gamma {
-  font-weight: 700;
   
   @include fs-5;
+  @include fw-700;
 }
