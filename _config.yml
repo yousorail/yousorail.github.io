@@ -4,7 +4,8 @@ theme: just-the-docs
 
 url: https://yousorail.github.io
 
-favicon_ico:
+favicon_ico: "/assets/images/favicon.ico"
+
 
 aux_links:
   Twitter: https://x.com/AqoursInSEOUL
