@@ -3,25 +3,3 @@
 $body-font-family: Pretendard, system-ui, -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, sans-serif, "Segoe UI Emoji";
 
 $link-color: $blue-000;
-
-h1,
-.text-alpha {
-
-  @include fs-8;
-  @include fw-700;
-}
-
-h2,
-.text-beta,
-#toctitle {
-  
-  @include fs-6;
-  @include fw-700;
-}
-
-h3,
-.text-gamma {
-  
-  @include fs-5;
-  @include fw-700;
-}
