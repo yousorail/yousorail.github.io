@@ -3,7 +3,7 @@ layout: default
 title: 리코쨩 빔
 date: 2019-04-03
 last_modified_date: 2019-04-03
-nav_order: 6
+nav_order: 5
 ---
 
 # 리코쨩 빔 안내 페이지
