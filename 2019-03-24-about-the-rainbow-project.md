@@ -3,7 +3,8 @@ layout: default
 title: 레인보우에 대한 상황
 date: 2019-03-24
 last_modified_date: 2019-03-24
-nav_order: 3
+parent: No.10 레인보우
+nav_order: 1
 ---
 
 # 레인보우에 대한 상황
