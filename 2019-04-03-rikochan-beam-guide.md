@@ -8,7 +8,7 @@ nav_order: 5
 
 # 리코쨩 빔 안내 페이지
 
-![](/assets/images/리코쨩빔-업로드용-1200x872.png)
+![](/assets/images/rikochanbeam-upload-1200x872.png)
 
 ![](/assets/images/rikobeam_190325.jpg)
 
